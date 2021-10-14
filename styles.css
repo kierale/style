@@ -1,0 +1,72 @@
+/* STYLES */
+
+body {
+    background: #382307;
+    color: #faf1e0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    font-size: 5em;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    /* leading */
+    line-height: 70px;
+
+    /* tracking */
+    letter-spacing: -2px;
+    color: rgb(6, 207, 113);
+}
+
+em{
+    font-family: 'Josefin Slab', serif;
+    font-style: italic;
+    font-size: smaller;
+    letter-spacing: 0.5px;
+    color: #fdd283;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: -1px;
+    color: rgb(152, 111, 248);
+}
+
+h3{
+    font-size: 28px;
+    letter-spacing: -1px;
+    color: rgb(220, 143, 255);
+}
+
+h4{
+    font-size: 22px;
+    color: cornflowerblue;
+}
+
+ul{
+    font-family: 'Josefin Slab', serif;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    font-weight: 100;
+    color: #f8e3bc;
+}
+
+p{
+    font-family: 'Josefin Slab', serif;
+    margin-bottom: 35px;
+    font-weight: 100;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+
+main{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30vh;
+    margin-bottom: 100px;
+}
